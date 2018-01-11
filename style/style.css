@@ -1,0 +1,14 @@
+header{
+	padding-top: 15%;
+	background-image: radial-gradient(circle, white, cyan);
+	margin-bottom: 0.1%;
+}
+section{
+	background-image: radial-gradient(circle, white, cyan);
+}
+.texto-alinhado{
+	text-align: center;
+}
+.row-botao{
+	margin-top: 15%
+}
